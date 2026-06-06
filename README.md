@@ -88,10 +88,10 @@ const MFS = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smilebotstore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=FFFFFF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilebotstore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smilebotstore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=FFFFFF&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilebotstore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=FFFFFF&cache_seconds=1800&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smilebotstore&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=smilebotstore&theme=tokyonight&hide_border=true&background=0D1117&ring=6E57F7&fire=6E57F7&currStreakLabel=6E57F7" width="500"/>
 
 </div>
 
