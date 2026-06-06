@@ -10,7 +10,7 @@
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=smilebotstore&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6E57F7?style=for-the-badge)](https://portofolio-flax-eta-19.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6E57F7?style=for-the-badge)](https://about.smilebot.my.id)
 [![Email](https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge)](mailto:ttes61665@gmail.com)
 
 </div>
@@ -131,7 +131,7 @@ const MFS = {
 
 > *"Mari berkolaborasi untuk menghadirkan ide Anda menjadi kenyataan dengan solusi web yang modern, scalable, dan impactful."*
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portofolio--flax--eta--19.vercel.app-6E57F7?style=for-the-badge)](https://portofolio-flax-eta-19.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-about.smilebot.my.id-6E57F7?style=for-the-badge)](https://about.smilebot.my.id)
 [![Email](https://img.shields.io/badge/📧%20Email-ttes61665%40gmail.com-EA4335?style=for-the-badge)](mailto:ttes61665@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-smilebotstore-181717?style=for-the-badge&logo=github)](https://github.com/smilebotstore)
 
